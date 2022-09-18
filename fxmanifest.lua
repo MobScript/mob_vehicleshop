@@ -7,7 +7,7 @@ version '1.0'
 
 server_script 'main.lua'
 
-boss_updater 'yes'
-boss_name '^2Mob Boss utilities'
-boss_github 'https://github.com/MobScripts/mob_bossutilities'
+mbvehicle_updater 'yes'
+mbvehicle_name '^2Mob VehicleShop'
+mbvehicle_github 'https://github.com/MobScripts/mob_vehicleshop'
 
