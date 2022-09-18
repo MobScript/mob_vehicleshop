@@ -8,6 +8,6 @@ version '1.0'
 server_script 'main.lua'
 
 mbvehicle_updater 'yes'
-mbvehicle_name '^2Mob VehicleShop'
+mbvehicle_name '^2mob_vehicleshop'
 mbvehicle_github 'https://github.com/MobScripts/mob_vehicleshop'
 
